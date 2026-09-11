@@ -18,7 +18,7 @@ int main() {
     cout << "Renda por pessoa: R$ " << rendaPorPessoa << endl;
 
     if (rendaPorPessoa <= 218) {
-        cout << "A familia atende ao criterio de renda do Bolsa Fam1ilia.";
+        cout << "A familia atende ao criterio de renda do Bolsa Familia.";
     }
     else {
         cout << "A familia nao atende ao criterio de renda do Bolsa Familia.";
