@@ -24,13 +24,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # Visual Studio Code
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
-!*.code-workspace
+.vscode/
+*.code-workspace
 
 # Built Visual Studio Code Extensions
 *.vsix
@@ -97,9 +92,9 @@ compile_commands.json
 # vcpkg
 vcpkg_installed/
 
-# debug information files
+# Debug information files
 *.dwo
 
-# test output & cache
+# Test output & cache
 Testing/
 .cache/
