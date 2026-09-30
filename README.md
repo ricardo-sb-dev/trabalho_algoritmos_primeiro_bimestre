@@ -183,7 +183,7 @@ O trabalho contempla exercícios envolvendo:
 * operadores lógicos;
 * expressões;
 * estruturas condicionais;
-* estruturas de repetição *(em andamento)*.
+* estruturas de repetição.
 
 ## Exercícios
 
@@ -227,7 +227,7 @@ Calcula o valor do 13º salário proporcional considerando o salário mensal e a
 
 [Ver exercício](./exercicio_05_decimo_terceiro/)
 
-### Desafio — Estrutura de repetição *(em andamento)*
+### Desafio — Estrutura de repetição
 
 Amplia o exercício do 13º salário para permitir o processamento de vários funcionários utilizando uma estrutura de repetição.
 
